@@ -15,9 +15,9 @@
 
 ## 🛠️ Technical Skills
 
-- **Test Automation**: Selenium, Playwright  
-- **Languages**: Java, JavaScript  
-- **API Testing**: Postman, Rest Assured, Playwright (API Testing)  
+- **Test Automation**: Selenium and Playwright  
+- **Languages**: Java and JavaScript  
+- **API Testing**: Postman, Rest Assured and Playwright (API Testing)  
 
 ---
 
