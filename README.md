@@ -10,6 +10,7 @@
 - 🎓 Associate degree in **Systems Analysis and Development**  
 - 📚 Currently pursuing a **Postgraduate degree in Test Automation**
 - 💼 Working at **GFT** as a QA Analyst focused on **Web and API Testing**
+- 📖 Studying for the **ISTQB® CTFL (Certified Tester Foundation Level)** certification
 
 ---
 
