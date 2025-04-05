@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there! I'm Lucas
 
-<!--
-**lucaspaludeto/lucaspaludeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Software Testing Analyst** with 3 years of experience in **manual and automated testing** of Web applications and APIs. I’m passionate about software quality and delivering reliable, well-tested systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Bachelor's degree in **Control and Automation Engineering**  
+- 🎓 Associate degree in **Systems Analysis and Development**  
+- 📚 Currently pursuing a **Postgraduate degree in Test Automation**
+- 💼 Working at **GFT** as a QA Analyst focused on **Web and API Testing**
+
+---
+
+## 🛠️ Technical Skills
+
+- **Test Automation**: Selenium, Playwright  
+- **Languages**: Java, JavaScript  
+- **API Testing**: Postman, Rest Assured, Playwright (API Testing)  
+
+---
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucaspaludeto)  
+- ✉️ lucas.paludeto@hotmail.com
+
