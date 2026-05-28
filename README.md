@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Lucas
 
-🎯 **Software Testing Analyst** with 3 years of experience in **manual and automated testing** of Web applications and APIs. I’m passionate about software quality and delivering reliable, well-tested systems.
+🎯 **Software Testing Analyst** with 4 years of experience in **manual and automated testing** of Web applications and APIs. I’m passionate about software quality and delivering reliable, well-tested systems.
 
 ---
 
