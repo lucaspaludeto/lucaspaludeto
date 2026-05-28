@@ -8,9 +8,9 @@
 
 - 🎓 Bachelor's degree in **Control and Automation Engineering**  
 - 🎓 Associate degree in **Systems Analysis and Development**  
-- 📚 Currently pursuing a **Postgraduate degree in Test Automation**
+- 📚 Postgraduate degree in Test Automation
+- 📖 Certified ISTQB® CTFL (Certified Tester Foundation Level)
 - 💼 Working at **GFT** as a QA Analyst focused on **Web and API Testing**
-- 📖 Studying for the **ISTQB® CTFL (Certified Tester Foundation Level)** certification
 
 ---
 
